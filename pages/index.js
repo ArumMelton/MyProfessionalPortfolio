@@ -92,7 +92,7 @@ export default function Home() {
             </h1>
               <div style={{paddingBottom:"20px"}}>
             <img style={{width:"300px", height:"auto", marginInline:"auto"}} 
-            src="https://previews.dropbox.com/p/thumb/ABrqi7EQ5SZG9NkjfWZYQsXQAlD9QdLBXY_AxFH7plrYcnUb4xa8iruMqqf7BWnK9HwmD7SslCIKEB1RHBfdFSKn1bUy5gdec-VSeNPKd1vikseFq6IDgHEf2ILMfCqfh3H6qe6BumDem69l6pOAvIOHeIibQnb7RgIOGiQYPSZlmpoi4494kf3xONYFXJT-h_rTzgIJMLShORLgF_AilAyLyXqK9N0WIeLBFEtBISku4z43RMTOFdEzMDKyMAGQsUXhE-fBgFgy3Y21sOjXhaPL_o-xtG7ikWlfiVA_fkspyJua0mxVEy47Yp5tNnbpXUqfkFWdTKBmz9Byqlrd-V7iXbV51Ns9M7lgswhXW-w-XGt_oAb1_WMrZlYXyRQZRUmXu_xpRbqiWhCtFU7zKbQ9/p.jpeg"></img>
+            src="https://github.com/ArumMelton/readmepreview/blob/main/Arum07%20(1).jpg?raw=true"></img>
               </div>
           </div>
           <section >
